@@ -1,0 +1,5 @@
+# Archlinux
+install
+```bash
+archinstall
+```
